@@ -1,0 +1,23 @@
+body{
+    font-family: 'Russo One', sans-serif;
+}
+h1{
+    font-size: 200px;
+    margin-bottom: 0;
+}
+h2{
+    font-size: 40px;
+    margin-bottom: 0;
+}
+h3{
+    font-size: 20px;
+}
+
+section{
+    display: flex;
+}
+.text{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    padding-right: 150px;
+}
