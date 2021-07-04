@@ -37,6 +37,7 @@ section{
 
 .sec-second{
     margin-top: 200px;
+    margin-bottom: 200px;
 }
 .img-second{
     padding-right: 40px;
@@ -49,4 +50,31 @@ section{
 }
 .img-first{
     padding-right: 100px;
+}
+.tit{
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+.exp{
+    box-shadow: 0px 0px 10px;
+    width: 30%;
+    margin-left: 5px;
+    padding: 50px 40px 50px 40px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+   
+}
+#one{
+    margin-right: 100px;
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+    
+}
+#two{
+    margin-left: 100px;
+    border-left: 10px solid;
+    border-image: linear-gradient(orange, rgb(207, 22, 53));
+    border-image-slice: 1;
+    
 }
